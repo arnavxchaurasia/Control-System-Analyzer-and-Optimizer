@@ -987,8 +987,8 @@ const ControlSystemAnalyzer = () => {
             </div>
             <div className="border-t border-gray-200 pt-4 mt-4">
               <p className="text-gray-600 mb-2">Developed as ECE Course Project</p>
-              <p className="text-lg font-bold text-blue-600">Made by Arnav-203</p>
-              <p className="text-sm text-gray-600 mb-2">EE-VDT 5th Semester</p>
+              <p className="text-lg font-bold text-blue-600">Made by Divyanshu and Sourav</p>
+              <p className="text-sm text-gray-600 mb-2">EEE - 5th Semester</p>
               <p className="text-xs text-gray-500">
                 Featuring: Step Response Analysis • PID Optimization • Bode Plots • Root Locus • Nyquist Plots • Stability Analysis • System Comparison
               </p>
