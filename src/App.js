@@ -383,7 +383,7 @@ const ControlSystemAnalyzer = () => {
                 <Activity className="text-blue-600" />
                 Advanced Control System Analyzer & Optimizer
               </h1>
-              <p className="text-gray-600">Comprehensive ECE Control Systems Analysis Tool</p>
+              <p className="text-gray-600">Comprehensive EEE Control Systems Analysis Tool</p>
             </div>
             
           </div>
@@ -986,7 +986,7 @@ const ControlSystemAnalyzer = () => {
               <h3 className="text-xl font-bold text-gray-800">Advanced Control System Analyzer</h3>
             </div>
             <div className="border-t border-gray-200 pt-4 mt-4">
-              <p className="text-gray-600 mb-2">Developed as ECE Course Project</p>
+              <p className="text-gray-600 mb-2">Developed as EEE Course Project</p>
               <p className="text-lg font-bold text-blue-600">Made by Divyanshu and Sourav</p>
               <p className="text-sm text-gray-600 mb-2">EEE - 5th Semester</p>
               <p className="text-xs text-gray-500">
